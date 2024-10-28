@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+                              <meta charset="UTF-8">
+                              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                              <title>NL BUSINESS DEVELOPMENT</title>
+                              <style>
+                            body
+{
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+padding: 0;
+line-height: 1.6;
+background-color:aliceblue;
+color: black;
+box-sizing: border-box;
+}
+nav
+{
+color: black;
+text-align: left;
+}
+nav ul
+{
+ list-style: none;
+ text-align: right;
+padding-right: 20px;
+}
+nav ul li
+{
+display: inline;
+margin: 0 15px;
+}
+nav ul li a
+{
+color:black;
+text-decoration: none;
+font-weight: bold;
+}
+nav ul li a .hover
+{
+text-decoration: underline;
+}
+header
+{
+color:black;
+font-style: italic;
+align-items: center;
+}
+#content
+{
+color: skyblue;
+text-align: center;
+font-weight: bold;
+background-color: white;
+}
+#content2
+{
+text-align: center;
+color: black;
+}
+#achieve
+{
+text-align: center;
+color: black;
+}
+#achieveh2
+{
+color: darkblue;
+text-align: center;
+text-decoration: underline;
+font-weight: bold;
+}
+#achieveh2 ol
+{
+list-style-position: inside;
+padding-left: 0;
+margin-left: 0;
+}
+#achieveh2 ol li
+{
+list-style-type:upper-roman;
+padding-left: 5px;
+font-size: 1.2em;
+display: flex;
+counter-increment: list;
+}
+#hero
+{
+color:black;
+height: 80vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+background-color: lightgrey;
+}
+#hero h2
+{
+font-size: 3.5em;
+}
+#hero p
+{
+font-size: 1.5em;
+margin-top: 20px;
+}
+#about
+{
+padding: 50px 0;
+text-align: center;
+background-color: azure;
+}
+#about h3
+{
+font-size: 2.5em;
+margin-bottom: 20px;
+}
+#about p
+{
+width: 80%;
+margin: 0 auto;
+font-size: 1.2em;
+line-height: 1.8;
+}
+#services
+{
+padding: 50px 0;
+text-align: center;
+font-weight: bold;
+background-color: cornflowerblue;
+}
+#services h3
+{
+font-size: 2.5em;
+margin-bottom: 20px;
+background-color: cornflowerblue;
+}
+#services.service card
+{
+display: inline-block;
+background-color: cornflowerblue;
+padding: 20px;
+margin: 10px;
+width: 28%;
+border-radius: 8px;
+box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+transition: transform 0.3s ease;
+}
+#services.service-card:hover
+{
+transform: translatY(-5px);
+background-color: cornflowerblue;
+}
+services.service-card h4
+{
+font-size: 1.8em;
+margin-bottom: 10px;
+background-color: cornflowerblue;
+}
+#services.service-card p
+{
+font-size: 1.1em;
+color: black;
+background-color: cornflowerblue;
+}
+#contact
+{
+background-color: lightblue;
+}
+#image consult
+{
+place-items: center;
+display: flex;
+flex-direction: column;
+gap:15px;
+align-items: center;
+}
+#video consult
+{
+ position: relative;
+ padding-bottom: 56.25%;
+ height: 0;
+max-width: 100%;
+overflow: hidden;
+}
+#video consult iframe
+{
+position: absolute;
+top: 0;
+left: 0;
+width: 500px;
+height: 700px;
+}
+#success h2
+{
+color: skyblue;
+text-align: center;
+font-weight: bold;
+}
+#success p
+{
+color: black;
+text-align: center;
+font-weight: bold;
+}
+footer
+{
+background-color: bisque;
+color: black;
+text-align: center;
+padding: 20px;
+margin-top: 50px;
+}
+ .logo
+{
+width: 30px;
+height: 30px;
+display: inline-block;
+margin: 20px  auto;
+text-align: left;
+}
+footer p
+{
+margin: 0;
+font-size: 1em;
+}
+@media(max-width:768px)
+{
+#hero h2
+{
+font-size: 2em;
+text-decoration: underline;
+}
+#hero p
+{
+font-size: 1em;
+}
+#services.service-card
+{
+width: 90%;
+}
+}
+                              </style>
+</head>
+<body>
+                              <nav>
+                                <img src="nl.jpeg" alt="logo "  width="100px" height="100px" >
+                                <ul>
+                                 <li><a href="#Home">Home</a></li>
+                                 <li><a href="#about">About Us</a></li>
+                                 <li><a href="#Services">Services</a></li>
+                                 <li><a href="#Contact">Contact</a></li>
+                                 </ul>
+                                 </nav>
+                                <center>
+                                 <header>
+                                   <h1>NL BUSINESS DEVELOPMENT</h1>
+                                 </header>
+                                </center>
+                            </div>
+                              <section id="content">
+                              <h3>Network Loyalty Business Development</h3>
+                              </section>
+                              <section id="content2">
+                              <p>NL||BUSINESS DEVELOPMENT||NITESH JAJORIYA||CEO & FOUNDER Of NL Business Development Social Media Influencers||National Motivational Speaker||Sales Trainer & Business Coach</p>
+                              </section>
+                              <center>
+                              <section id="achieve">
+                              <h2>AWARD & HONOURS</h2>
+                               <p>2 Times Honorable Award of Public Speaking National
+                              </center>
+                               <ol>
+                              <li>India Pride Icon Award 2023(Motivational Speaker)</li>
+                              <li>India Youth Icon Award 2023[Honorable Award]</li>
+                               </ol>                             
+                              </p>
+                              </section>
+                              <section id="hero">
+                              <h2>Your Trusted Business Consultant</h2>
+                              <p>Helping you build and grow your business</p>
+                              </section>
+                              <section id="about">
+                              <h3>About Us</h3>
+                              <p>NL Business Development is a trusted consulting firm led by Nitesh Jajoriya...</p>
+                              </section>
+                              <center>
+                              <section id="Services">
+                              <h2>Services</h2>
+                              <h3>BUSINESS SERVICES AVAILABLE OF NL BUSINESS DEVELOPMENT</h3>
+                              <div class="Service-card">
+                              <p>Business coach & sales trainer
+                              <br>
+                              <p>Business grow problems solving service available of NL BUSINESS DEVELOPMENT</p>
+                              </p>
+                              </center>
+                              <ol list style type="a">
+                              <li>Business sales grow strategies.</li>
+                              <li>Employees always motivated for office work.</li>
+                              <li>Customer problems solving.</li>
+                              <li>Employee and customer communication skill</li>
+                              <li>Smart employees.</li>
+                              <li>Leadership in team building.</li>
+                              </ol>
+                              </div>
+                              </section>
+                              <section id="Contact">
+                                <h2>Contact Us:</h2>
+                                <p>For information,please call us at:</p>
+                                <strong>6376083955</strong>
+                              </section>
+                              <center>
+                               <section id="image consult">
+                              <img src="nl.jpeg"  alt="image 1" width="500px" height="700px">
+                              <br>
+                              <img src="consult.jpeg"  alt="image 2" width="500px" height="700px">
+                              <br>
+                              <img src="health minister.jpeg" alt="image 3"width="500px" height="700px">
+                              <br>
+                              <img src="sp.jpeg" alt="image 4" width="500px" height="700px">
+                              <br>
+                              <img src="me.jpeg"  alt="image 5" width="500px" height="700px">
+                              <br>
+                              <img src="ni.jpeg"  alt="image 6" width="500px" height="700px">
+                              <br>
+                              <img src="speaker.jpeg"  alt="image 7" width="500px" height="700px">
+                              <br>
+                              </section>
+                              </center>
+                              <center>
+                                <section id="video conslut">
+                              <iframe src="https://youtube.com/embed/ZqfJFigB5A8"  title="YouTube video player" frameborder="0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen></iframe>
+                                </section>
+                              </center>
+                              <center>
+                              <section id="success">
+                              <h2>MAKE SMART</h2>
+                              <p>MAKE SMART OF ACHIEVE OF SUCCESS BY NITESH JAJORIYA</p>
+                              </section>
+                              </center>
+                              <center>
+                              <section id="img success">
+                              <img src="market.jpeg" alt="img 1" width="650px" height="650px">
+                              <br>
+                              <img src="consulting.jpeg" alt="img 2" width="650px" height="650px">
+                              <br>
+                              <img src="business.jpeg" alt="img 3" width="650px" height="650px">
+                              </section>
+                              </center>
+                              <section id=" links">
+                                <a href="https://youtube.com/@m.s.niteshjajo?si=VlI0nhKjETAF48G_" target="_blank" >
+                                 <img src="https://t3.ftcdn.net/jpg/05/48/51/54/240_F_548515477_Xzfcwp5fl1ffhbc5sO3kHkwrLHQQUmM9.jpg" alt="YouTube Channel Logo" class="logo">
+                                 <a href="_https://www.linkedin.com/in/nitesh-jajoriya-991953325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" >
+                                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="Linkedin Profile Logo" class="logo">
+                                  <a href="https://www.instagram.com/nitesh_nj?igsh=b2wwazBxMWhsbnN0" target="_blank" >
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHP2W0X8Bj9Wwou8Y5Iv2q_Aa-nME9SMwEAA&s" alt="Instagram Profile Logo" class="logo">
+                                    <a href="https://www.facebook.com/profile.php?id=100081298448603&mibextid=ZbWKwL" target="_blank" >
+                                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjvzC_QRv6moAhgNb5C6e3yicKgFND1g2RwA&s" alt="Fcaebook Profile Logo" class="logo">
+                                      <a href="https://wa.me/6376083955" target="_blank" >
+                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR4n4ZZfsB7E7PV1NSmfLg3Rvcg4OOF5ukpg&s" alt="WhatsApp Profile Logo" class="logo">
+                                </section>
+                              <footer>
+                              <p> Social Media:@nitesh_nj</p>
+                              </footer>
+</body>
+</html>
